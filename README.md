@@ -1,4 +1,4 @@
-![](https://github.com/tibfab/cognitive-chat/blob/main/misc/cognitive_chat.gif)
+![](https://github.com/tibfab/cognitive-chat/blob/main/misc/cognitive_web_chat.gif)
 
 ### How to start web_chat?
 flask --app web_chat run?
